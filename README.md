@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Ahmed Nimatullahi Inya-Oyiza
+I'm Nimatullahi Inya-Oyiza Ahmed
 ### Aspiring Data Analyst • Abuja, Nigeria
 Driven by curiosity and problem-solving, I focus on transforming raw data into valuable insights. I love uncovering patterns, interpreting results, and communicating findings in a way that supports informed decision-making.
 🔧 Skills & Tools
@@ -11,8 +11,6 @@ Driven by curiosity and problem-solving, I focus on transforming raw data into v
 ### 📊 Featured Projects
 - **Osteoporosis Knowledge & Health Belief Analysis**
 - More projects coming soon... 🚀
-
----
 
 ### 📫 Let's Connect!
 - Email: Oyeezah2@gmail.com
